@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	char tp[] = "and that piece of art is usefull\" - Dora Korpar, 2015-10-19\n";
+	char tp[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 	int i;
 	int l = strlen(tp);
 
@@ -19,5 +19,5 @@ int main(void)
 		putchar(tp[i]);
 		i++;
 	}
-	return (0);
+	return (1);
 }
