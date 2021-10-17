@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * main - prints the alphabet in revers. 
+ * main - prints the alphabet in revers.
  *
  * Return: 0 if sucessesful else another number. *
  */
