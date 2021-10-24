@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
 
 /**
  * read_textfile - reads a file and prints it to the stdout.

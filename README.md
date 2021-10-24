@@ -1,3 +1,1 @@
-##ALX PROJECT
-#preprocessor
 #ALX
